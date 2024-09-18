@@ -12,7 +12,7 @@
 <p><strong>Middleware Pipeline:</strong> ASP.NET Core uses a middleware pipeline to handle HTTP requests. This allows for a modular approach to adding functionality like authentication, logging, and error handling.</p>
 <p><strong>Cross-Platform:</strong> ASP.NET Core is cross-platform, meaning it can run on Windows, macOS, and Linux.</p>
 
-<h4>Use Cases</h4>
+<h3>Use Cases</h3>
 <p><strong>Blazor:</strong> Ideal for building rich, interactive web applications with a lot of client-side logic. It’s a good choice if you prefer to use C# and .NET for both client and server code.</p>
 <p><strong>ASP.NET Core:</strong> Best suited for building robust server-side applications, APIs, and services. It’s a great choice for applications that require complex server-side logic, data processing, and integration with other systems.</p>
 
