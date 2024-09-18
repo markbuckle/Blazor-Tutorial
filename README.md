@@ -1,5 +1,7 @@
 <h2>Blazor Tutorial</h2>
 
+Blazor is a modern front-end web framework based on html, css, and C# to help you build websites faster. It's essentially Microsoft's version of Facebook's React.
+
 <h3>Blazor</h3>
 <p><strong>Client-Side and Server-Side:</strong> Blazor can run on the client-side using WebAssembly (Blazor WebAssembly) or on the server-side (Blazor Server). Blazor WebAssembly allows you to run C# code directly in the browser, while Blazor Server runs on the server and uses SignalR to communicate with the client.</p>
 <p><strong>Single-Page Applications (SPA):</strong> Blazor is designed for building SPAs, where the application runs in the browser and interacts with the server only when necessary.</p>
