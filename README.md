@@ -1,10 +1,10 @@
 <h2>Blazor Tutorial</h2>
 
 <h3>Blazor</h3>
-<strong>Client-Side and Server-Side:</strong> Blazor can run on the client-side using WebAssembly (Blazor WebAssembly) or on the server-side (Blazor Server). Blazor WebAssembly allows you to run C# code directly in the browser, while Blazor Server runs on the server and uses SignalR to communicate with the client.
-<strong>Single-Page Applications (SPA):</strong> Blazor is designed for building SPAs, where the application runs in the browser and interacts with the server only when necessary.
-<strong>Component-Based:</strong> Blazor uses a component-based architecture, similar to frameworks like React or Angular. Components are reusable UI elements that can be nested, shared, and managed independently.
-C# and .NET: Blazor allows you to write both client-side and server-side code in C#, leveraging the .NET ecosystem for libraries and tools.<br>
+<p><strong>Client-Side and Server-Side:</strong> Blazor can run on the client-side using WebAssembly (Blazor WebAssembly) or on the server-side (Blazor Server). Blazor WebAssembly allows you to run C# code directly in the browser, while Blazor Server runs on the server and uses SignalR to communicate with the client.</p>
+<p><strong>Single-Page Applications (SPA):</strong> Blazor is designed for building SPAs, where the application runs in the browser and interacts with the server only when necessary.</p>
+<p><strong>Component-Based:</strong> Blazor uses a component-based architecture, similar to frameworks like React or Angular. Components are reusable UI elements that can be nested, shared, and managed independently.</p>
+<p><strong>C# and .NET:</strong> Blazor allows you to write both client-side and server-side code in C#, leveraging the .NET ecosystem for libraries and tools.</p><br>
 
 <h3>ASP.NET Core</h3>
 <p><strong>Server-Side Framework:</strong> ASP.NET Core is primarily a server-side framework for building web applications and APIs. It handles HTTP requests and responses, routing, and server-side logic.</p>
