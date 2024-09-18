@@ -1,10 +1,10 @@
 <h2>Blazor Tutorial</h2>
 
 <h3>Blazor</h3>
-<h5>Client-Side and Server-Side:</h5> Blazor can run on the client-side using WebAssembly (Blazor WebAssembly) or on the server-side (Blazor Server). Blazor WebAssembly allows you to run C# code directly in the browser, while Blazor Server runs on the server and uses SignalR to communicate with the client.
+<p>**Client-Side and Server-Side:** Blazor can run on the client-side using WebAssembly (Blazor WebAssembly) or on the server-side (Blazor Server). Blazor WebAssembly allows you to run C# code directly in the browser, while Blazor Server runs on the server and uses SignalR to communicate with the client.
 **Single-Page Applications (SPA):** Blazor is designed for building SPAs, where the application runs in the browser and interacts with the server only when necessary.
 **Component-Based:** Blazor uses a component-based architecture, similar to frameworks like React or Angular. Components are reusable UI elements that can be nested, shared, and managed independently.
-C# and .NET: Blazor allows you to write both client-side and server-side code in C#, leveraging the .NET ecosystem for libraries and tools.
+C# and .NET: Blazor allows you to write both client-side and server-side code in C#, leveraging the .NET ecosystem for libraries and tools.</p>
 <h3>ASP.NET Core</h3>
 **Server-Side Framework:** ASP.NET Core is primarily a server-side framework for building web applications and APIs. It handles HTTP requests and responses, routing, and server-side logic.
 **MVC and Razor Pages:** ASP.NET Core supports the Model-View-Controller (MVC) pattern and Razor Pages, which are used to build dynamic web pages with server-side rendering.
